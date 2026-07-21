@@ -21,7 +21,7 @@
 - `sudo apt install python3-pip`
 
 - ᴄʟᴏɴᴇ ᴛʜᴇ ʀᴇᴘᴏsɪᴛᴏʀʏ ʙʏ :
-- `git clone https://github.com/TeamAloneOp/AloneXRobot`
+- `git clone 
 
 - ᴇɴᴛᴇʀ ɪɴ ʀᴇᴘᴏ
 - `cd AloneXRobot`
@@ -53,7 +53,6 @@
 
 - -ғᴏʀ ᴜᴘᴅᴀᴛᴇ ʏᴏᴜʀ ɴᴇᴡ ᴄᴏᴍᴍɪᴛ ᴜsᴇ :→ `git pull`
 ━━━━━━━━━━━━━━━━━━━━
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 <h2 align="center"> 
@@ -68,27 +67,15 @@ DATABASE_URL =  ɢᴇᴛ ᴏɴᴇ ғʀᴏᴍ https://customer.elephantsql.com/lo
 MONGO_DB_URI =  ɢᴇᴛ ᴏɴᴇ ғʀᴏᴍ mongodb.com
 TOKEN =  ʏᴏᴜʀ ʙᴏᴛ ᴛᴏᴋᴇɴ. ɢᴇᴛ ᴏɴᴇ ғʀᴏᴍ @BotFather
 OWNER_USERNAME =  ʏᴏᴜʀ ᴛᴇʟᴇɢʀᴀᴍ ᴜsᴇʀɴᴀᴍᴇ ᴡɪᴛʜᴏᴜᴛ ᴛʜᴇ @
-OWNER_ID =  sᴛᴀʀᴛ @AloneXRobot & ᴛʏᴘᴇ /id 
+OWNER_ID =  sᴛᴀʀᴛ @ & ᴛʏᴘᴇ /id 
 ```
 </details>
 ━━━━━━━━━━━━━━━━━━━━
 
-<h3 align="center">
-    ─「 sᴜᴩᴩᴏʀᴛ 」─
-</h3>
 
-<p align="center">
-<a href="https://telegram.me/AlonesHeaven"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
-</p>
-<p align="center">
-<a href="https://telegram.me/ALONE_WAS_BOT"><img src="https://img.shields.io/badge/ALONE%20-blue.svg?style=for-the-badge&logo=Telegram"></a>
-</p>
-
-[ᴜᴘᴅᴀᴛɪɴɢ ʏᴏᴜʀ ғᴏʀᴋ ᴡɪᴛʜ ᴛʜᴇ ᴜᴘsᴛʀᴇᴀᴍ ʀᴇᴘᴏ](https://t.me/AloneXBots)
 
 ━━━━━━━━━━━━━━━━━━━━
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 <h2 align="center"> 
    ⇝ 2 ʙʀᴀɴᴄʜ ᴀᴠᴀɪʟᴀʙʟᴇ  ⇜
@@ -101,11 +88,3 @@ OWNER_ID =  sᴛᴀʀᴛ @AloneXRobot & ᴛʏᴘᴇ /id
 ```
 
 
-━━━━━━━━━━━━━━━━━━━━
-<h3 align="center">
-    ─「 ᴄʀᴇᴅɪᴛs 」─
-</h3>
- : ➻
-
-➥ [𝐀𝗅𝗈𝗇𝖾] × <a href="https://github.com/TeamAloneOp" alt="TeamAloneOp"> <img src="https://img.shields.io/badge/KINGALONE-90302f?logo=github" /></a>  
-━━━━━━━━━━━━━━━━━━━━
