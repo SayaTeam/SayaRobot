@@ -23,7 +23,7 @@ class Config(object):
     DATABASE_URL = getenv("DATABASE_URL")
 
     # ɴᴏ ᴇᴅɪᴛ ᴢᴏɴᴇ
-    if DATABASE_URL.startswith("postgres://"):
+    if DATABASE_URL and DATABASE_URL.startswith("postgres://"):
         DATABASE_URL = DATABASE_URL.replace("postgres://", "postgresql://")
 
 
